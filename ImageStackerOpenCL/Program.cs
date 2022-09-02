@@ -9,7 +9,7 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using Cloo;
 
-namespace ClootilsNetCore
+namespace ImageStackerOpenCL
 {
     class Program
     {
